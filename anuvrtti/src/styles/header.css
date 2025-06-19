@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 1rem 2rem 0 0;
+  font-size: 0.9rem;
+  color: #003366;
+  line-height: 1.2;
+  height: 60px;
+}
+
+.header em {
+  font-style: italic;
+  font-size: 0.85rem;
+  color: #555;
+}
